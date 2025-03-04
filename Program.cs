@@ -13,5 +13,6 @@ Console.WriteLine(result);
 
 static int GetSumOfthreenum(int a, int b, int c)
 {
+    //return GetSumOfthreenum
    return a + b + c;
 }
