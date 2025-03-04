@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApplication.exe
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApplication.deps.json
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApplication.runtimeconfig.json
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApplication.dll
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\bin\Debug\net8.0\FoodDeliveryApplication.pdb
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.sourcelink.json
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.dll
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\refint\FoodDeliveryApplication.dll
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.pdb
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\FoodDeliveryApplication.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\FoodDeliveryApp\obj\Debug\net8.0\ref\FoodDeliveryApplication.dll
